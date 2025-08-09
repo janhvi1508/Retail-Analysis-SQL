@@ -9,6 +9,9 @@ Data Loading: Importing data from CSV files into the SQL tables.
 Data Cleaning: Addressing data type inconsistencies, handling missing values, ensuring data integrity, and removing duplicates.
 Exploratory Data Analysis (EDA): Querying the cleaned data to understand customer demographics, product performance, sales trends, and cross-sectional relationships between tables.
 
+<img width="867" height="425" alt="Screenshot 2025-08-09 135335" src="https://github.com/user-attachments/assets/05c1a58c-eed7-4885-beb7-d11eedbd9d9b" />
+
+
 # Data Cleaning Highlights
 The data cleaning section is robust and addresses several common data quality issues:
 
