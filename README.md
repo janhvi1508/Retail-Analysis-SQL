@@ -11,6 +11,8 @@ Exploratory Data Analysis (EDA): Querying the cleaned data to understand custome
 
 <img width="867" height="425" alt="Screenshot 2025-08-09 135335" src="https://github.com/user-attachments/assets/05c1a58c-eed7-4885-beb7-d11eedbd9d9b" />
 
+<img width="870" height="427" alt="Screenshot 2025-08-09 135531" src="https://github.com/user-attachments/assets/659b03bd-a9c2-41b4-9e38-c8f354458be2" />
+
 
 # Data Cleaning Highlights
 The data cleaning section is robust and addresses several common data quality issues:
